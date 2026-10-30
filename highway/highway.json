@@ -2,6 +2,12 @@
   "version": 1,
   "photos": [
     {
+      "id": "2026-10-30-03",
+      "image": "photos/2026-10-30-03.jpg",
+      "task": "Durduğun yerden görebildiğin en eski kağıt parçası.",
+      "line": "Stan zamanlarımdan, bilen bilir."
+    },
+    {
       "id": "2026-10-30-01",
       "image": "photos/2026-10-30-01.jpg",
       "task": "Bir kutlamadan arta kalan bir şey.",
