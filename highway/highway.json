@@ -2,6 +2,13 @@
   "version": 1,
   "photos": [
     {
+      "id": "2026-10-30-04",
+      "image": "photos/2026-10-30-04.jpg",
+      "task": "Hiçbir şeyi yansıtmak için yapılmamış bir şeydeki yansıma.",
+      "line": "biraz daha parlasa höz kamaştırır",
+      "name": "kokuluçubuk"
+    },
+    {
       "id": "2026-10-30-03",
       "image": "photos/2026-10-30-03.jpg",
       "task": "Durduğun yerden görebildiğin en eski kağıt parçası.",
