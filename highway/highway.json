@@ -1,4 +1,17 @@
-   {
-     "version": 1,
-     "photos": []
-   }
+{
+  "version": 1,
+  "photos": [
+    {
+      "id": "2026-10-30-01",
+      "image": "photos/2026-10-30-01.jpg",
+      "task": "Bir kutlamadan arta kalan bir şey.",
+      "line": "Yanlış zaman doğru yer"
+    },
+    {
+      "id": "2026-10-30-02",
+      "image": "photos/2026-10-30-02.jpg",
+      "task": "İyi bir gömlek olabilecek bir desen.",
+      "line": "Ateş ederdi"
+    }
+  ]
+}
