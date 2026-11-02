@@ -1,6 +1,19 @@
 {
   "version": 1,
   "photos": [
+        {
+      "id": "2026-10-30-06",
+      "image": "photos/2026-10-30-06.jpg",
+      "task": "Birinin beklenmedik bir şeyle doldurduğu bir boşluk.",
+      "line": "En çok da kalbimi doldurur"
+    },
+    {
+      "id": "2026-10-30-05",
+      "image": "photos/2026-10-30-05.jpg",
+      "task": "İki farklı zeminin buluştuğu nokta.",
+      "line": "seperatör çubuk tüm görsel şölenimi bozdu",
+      "name": "çorabımınsağtekiyırtık"
+    },
     {
       "id": "2026-10-30-04",
       "image": "photos/2026-10-30-04.jpg",
