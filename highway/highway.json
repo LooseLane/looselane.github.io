@@ -2,6 +2,18 @@
   "version": 1,
   "photos": [
         {
+      "id": "2026-10-30-08",
+      "image": "photos/2026-10-30-08.jpg",
+      "task": "Yumuşacık görünen ama asla öyle olmayan bir doku.",
+      "line": "Ağaç tepeciklerinden yastıklar",
+      "name": "Güzelgünlerdeburalardayım"
+    },
+    {
+      "id": "2026-10-30-07",
+      "image": "photos/2026-10-30-07.jpg",
+      "task": "Bir şeyin üzerindeki yüz baskısı uzaklara dalmış."
+    },
+        {
       "id": "2026-10-30-06",
       "image": "photos/2026-10-30-06.jpg",
       "task": "Birinin beklenmedik bir şeyle doldurduğu bir boşluk.",
