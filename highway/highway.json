@@ -1,7 +1,13 @@
 {
   "version": 1,
   "photos": [
-        {
+    {
+      "id": "2026-11-06-09",
+      "image": "photos/2026-11-06-09.jpg",
+      "task": "Bu odada bir zamanlar ağaç olan bir şey.",
+      "line": "Ne oldum değil, ne olacağım diyen"
+    },
+    {
       "id": "2026-10-30-08",
       "image": "photos/2026-10-30-08.jpg",
       "task": "Yumuşacık görünen ama asla öyle olmayan bir doku.",
@@ -13,7 +19,7 @@
       "image": "photos/2026-10-30-07.jpg",
       "task": "Bir şeyin üzerindeki yüz baskısı uzaklara dalmış."
     },
-        {
+    {
       "id": "2026-10-30-06",
       "image": "photos/2026-10-30-06.jpg",
       "task": "Birinin beklenmedik bir şeyle doldurduğu bir boşluk.",
