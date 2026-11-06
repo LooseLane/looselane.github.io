@@ -2,6 +2,12 @@
   "version": 1,
   "photos": [
     {
+      "id": "2026-11-06-10",
+      "image": "photos/2026-11-06-10.jpg",
+      "task": "Aynı anda iki iş gören bir şey.",
+      "line": "Öyle anlayamazsınız"
+    },
+    {
       "id": "2026-11-06-09",
       "image": "photos/2026-11-06-09.jpg",
       "task": "Bu odada bir zamanlar ağaç olan bir şey.",
